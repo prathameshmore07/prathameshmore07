@@ -21,5 +21,5 @@
 ---
 
 ⭐ Learn... Create... Build... Repeat... 
-🎯 A man on many missions — growth, code, impact.
+🎯 Man on many missions ✌️
 
