@@ -1,6 +1,7 @@
 ## Hi 👋 I'm Prathamesh More 
 🚀 First Year BTech CSE Student  
 💻 Learning AI, ML & Cybersecurity | Web Development
+
 🔥 Building projects & exploring open source  
 
 ---
@@ -20,6 +21,7 @@
 
 ---
 
-⭐ Learn... Create... Build... Repeat... 
+⭐ Learn... Create... Build...Evolve...Repeat... 
+
 🎯 Man on many missions ✌️
 
