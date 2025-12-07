@@ -28,4 +28,4 @@
 ## 📫 Contact Me  
 - 📧 prathamesh4244@gmail.com  
 - 💼 https://www.linkedin.com/in/prathameshmore-07csegrad/  
-- 🐙 github.com/prathameshmore07  
+- 🐙 https://github.com/prathameshmore07  
