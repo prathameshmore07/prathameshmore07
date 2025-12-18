@@ -14,8 +14,7 @@
 ---
 
 ### 📌 Current Focus  
-- 🤖 AI, ML & Cybersecurity  
-- 🌍 Full Stack Web Development  
+- 🤖 AI, ML & Cybersecurity   
 - 🏆 Hackathons & Open Source  
 
 ---
