@@ -1,7 +1,6 @@
 ## Hi 👋 I'm Prathamesh More 
 - 🚀 First Year BTech CSE Student  
-- 💻 Learning AI, ML & Cybersecurity
-- 🔥 Building projects & exploring open source  
+- 💻 Passionate About AI, ML & Cybersecurity
 
 ---
 
