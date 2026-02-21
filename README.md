@@ -7,7 +7,8 @@
 ### 🔧 Tech Stack  
 - 🐍 Python  
 - 💻 C++  
-- 🌐 HTML 
+- 🌐 HTML & CSS
+- 📜 JavaScript
 - 🔧 Git & GitHub  
 
 ---
