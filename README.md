@@ -60,7 +60,7 @@ Building projects at the intersection of Artificial Intelligence, Machine Learni
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=prathameshmore07&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=prathameshmore07&theme=tokyonight&show_icons=true&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshmore07&theme=tokyonight&hide_border=true)
 
