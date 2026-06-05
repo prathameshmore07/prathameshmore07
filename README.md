@@ -1,81 +1,74 @@
-# Hi, I'm Prathamesh More 👋
+<h1 align="center">Hi 👋, I'm Prathamesh More</h1>
 
-### First-Year B.Tech CSE Student | AI & Cybersecurity Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter" />
+</p>
 
-Building projects at the intersection of Artificial Intelligence, Machine Learning, Cybersecurity, and Modern Web Development.
-
----
-
-## 💫 About Me
-
-- Currently working on AI, Machine Learning, and Cybersecurity projects
-- Exploring modern full-stack development with React and cloud technologies
-- Looking to collaborate on Open Source, Hackathons, and innovative tech projects
-- Continuously learning Machine Learning, Cybersecurity, Cloud Computing, and Data Structures & Algorithms
-- Focused on building practical solutions that solve real-world problems
-- Interested in Artificial Intelligence, Open Source, Startups, and Emerging Technologies
-- Goal: Build impactful products, contribute to the developer community, and grow as a software engineer
-
-> Learn. Create. Build. Evolve. Repeat.
+<p align="center">
+  First-Year B.Tech CSE Student • AI • ML • Cybersecurity • Full Stack Development
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathameshmore-07csegrad/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathameshmore07)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/moreprathamesh6)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prathameshmore07)
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Cloud & Deployment
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+- Building projects in AI, Machine Learning and Cybersecurity
+- Exploring React, MongoDB, Supabase and Cloud Technologies
+- Contributing to Open Source and Hackathons
+- Learning DSA, System Design and Advanced Development
+- Passionate about turning ideas into real-world products
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=prathameshmore07&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshmore07&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmore07&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,html,css,mongodb,supabase,gcp,firebase,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Current Goals
+### 📊 GitHub Analytics
 
-- Build AI-powered applications
-- Contribute to Open Source projects
-- Participate in national-level Hackathons
-- Strengthen DSA and System Design skills
-- Explore Cybersecurity and Cloud technologies
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathameshmore07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmore07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshmore07&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=prathameshmore07&style=for-the-badge)
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshmore07&theme=tokyo-night&hide_border=true"/>
+
+---
+
+### 🎯 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Open Source
+- Cloud Computing
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prathameshmore-07csegrad/">LinkedIn</a> •
+<a href="https://github.com/prathameshmore07">GitHub</a> •
+<a href="https://x.com/moreprathamesh6">X</a> •
+<a href="https://medium.com/@prathameshmore07">Medium</a>
+</p>
+
+---
+
+<p align="center">
+<i>Learn. Create. Build. Evolve. Repeat.</i>
+</p>
