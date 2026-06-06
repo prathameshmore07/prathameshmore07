@@ -1,74 +1,63 @@
-<h1 align="center">Hi 👋, I'm Prathamesh More</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Prathamesh%20More&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Developer&descAlignY=58" />
 </p>
 
 <p align="center">
-  First-Year B.Tech CSE Student • AI • ML • Cybersecurity • Full Stack Development
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="700" />
 </p>
 
----
-
-### 🚀 About Me
-
-- Building projects in AI, Machine Learning and Cybersecurity
-- Exploring React, MongoDB, Supabase and Cloud Technologies
-- Contributing to Open Source and Hackathons
-- Learning DSA, System Design and Advanced Development
-- Passionate about turning ideas into real-world products
-
----
-
-### ⚡ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter" />
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,html,css,mongodb,supabase,gcp,firebase,git,github,vscode" />
+  <b>First-Year B.Tech CSE Student</b> • AI • ML • Cybersecurity • Full Stack Development
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 💻 About Me
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathameshmore07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshmore07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshmore07&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1200&color=58A6FF&background=0D111700&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=260&lines=prathamesh%40macbook+~+%25+whoami;Prathamesh+More;prathamesh%40macbook+~+%25+cat+profile.txt;First-Year+B.Tech+CSE+Student;AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;prathamesh%40macbook+~+%25+ls+interests%2F;AI++ML++Cybersecurity++Open-Source;prathamesh%40macbook+~+%25+ls+learning%2F;System+Design++Cloud+Computing;++Advanced+Development;prathamesh%40macbook+~+%25+echo+%24MISSION;Build+impactful+software+that+solves+real+problems." />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshmore07&theme=tokyo-night&hide_border=true"/>
-
----
-
-### 🎯 Current Focus
-
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Open Source
-- Cloud Computing
-
----
-
-### 🌐 Connect With Me
+## ⚡ Tech Stack
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prathameshmore-07csegrad/">LinkedIn</a> •
-<a href="https://github.com/prathameshmore07">GitHub</a> •
-<a href="https://x.com/moreprathamesh6">X</a> •
-<a href="https://medium.com/@prathameshmore07">Medium</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nextjs,html,css,tailwind,nodejs,mongodb,supabase,firebase,gcp,git,github,vscode&perline=8" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathameshmore07/prathameshmore07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathameshmore-07csegrad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/moreprathamesh6">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://medium.com/@prathameshmore07">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Learn. Create. Build. Evolve. Repeat.</i>
+  <i>Learn • Create • Build • Evolve</i>
 </p>
