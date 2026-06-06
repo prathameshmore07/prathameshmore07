@@ -16,10 +16,8 @@
 
 ---
 
-## 💻 About Me
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1200&color=58A6FF&background=0D111700&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=260&lines=prathamesh%40macbook+~+%25+whoami;Prathamesh+More;prathamesh%40macbook+~+%25+cat+profile.txt;First-Year+B.Tech+CSE+Student;AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;prathamesh%40macbook+~+%25+ls+interests%2F;AI++ML++Cybersecurity++Open-Source;prathamesh%40macbook+~+%25+ls+learning%2F;System+Design++Cloud+Computing;++Advanced+Development;prathamesh%40macbook+~+%25+echo+%24MISSION;Build+impactful+software+that+solves+real+problems." />
+  <img src="https://raw.githubusercontent.com/prathameshmore07/prathameshmore07/main/assets/terminal.gif" width="850" />
 </p>
 
 ---
