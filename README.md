@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>First-Year B.Tech CSE Student</b> • AI • ML • Cybersecurity • Full Stack Development
+  <b>First-Year B.Tech CSE Student</b> • AI • ML • Cybersecurity • Full Stack Developer
 </p>
 
 ---
