@@ -1,16 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Prathamesh More
+<h1>👋 Hi, I'm Prathamesh More</h1>
 
-<p>
-Building AI-powered applications, Full Stack Web Apps, and Cybersecurity Projects.
-</p>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=prathameshmore07&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br><br>
-
-<h3><code>prathamesh@github ~ $ ./contributions.sh</code></h3>
+<p><h3><code>prathamesh@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860"/>
 
@@ -32,15 +26,6 @@ Building AI-powered applications, Full Stack Web Apps, and Cybersecurity Project
 
 <br>
 
-<h3><code>prathamesh@github ~ $ tech-stack</code></h3>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,supabase,tailwind,git,github,docker,vscode&theme=dark" />
-
-</p>
-
-<br>
 
 <h3><code>prathamesh@github ~ $ links</code></h3>
 
@@ -61,14 +46,3 @@ Building AI-powered applications, Full Stack Web Apps, and Cybersecurity Project
 </p>
 
 <br>
-
-<h3><code>prathamesh@github ~ $ currently_building</code></h3>
-
-```text
-• AI Agents
-• Cybersecurity Tools
-• Full Stack SaaS Applications
-• Open Source Projects
-```
-
-</div>
