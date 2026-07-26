@@ -1,61 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Prathamesh%20More&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Developer&descAlignY=58" />
+<div align="center">
+
+<h3><code>prathamesh@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860"/>
+
+<br><br>
+
+<h3><code>prathamesh@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top">
+<img src="./avi-ascii.svg" width="370"/>
+</td>
+<td valign="top">
+<img src="./info-card.svg" width="490"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>prathamesh@github ~ $ links</code></h3>
+
+<p>
+
+<a href="https://github.com/prathameshmore07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prathamesh-more-in/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/morepprathamesh6">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="700" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Projects+That+Matter" />
-</p>
-
-<p align="center">
-  <b>First-Year B.Tech CSE Student</b> • AI • ML • Cybersecurity • Full Stack Developer
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prathameshmore07/prathameshmore07/main/assets/terminal.gif" width="850" />
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nextjs,html,css,tailwind,nodejs,mongodb,supabase,firebase,gcp,git,github,vscode&perline=8" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prathameshmore07/prathameshmore07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathameshmore-07csegrad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/moreprathamesh6">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@prathameshmore07">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learn • Create • Build • Evolve</i>
-</p>
+</div>
