@@ -61,7 +61,6 @@ ROWS = [
     ("bul", "CRAVE"),
     ("bul", "FlowState"),
     ("bul", "Retro Arcade"),
-    ("bul", "AI Agents & Security Tools"),
 ]
 
 
