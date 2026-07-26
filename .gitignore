@@ -1,0 +1,38 @@
+.# === SECURITY DISASTERS (Never commit these!) ===
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+id_rsa
+credentials.json
+secrets/
+
+# === DEPENDENCIES (Massive folders) ===
+node_modules/
+jspm_packages/
+web_modules/
+venv/
+.venv/
+env/
+lib/
+lib64/
+
+# === BUILD OUTPUTS & LOGS ===
+dist/
+build/
+out/
+target/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# === OS & EDITOR JUNK ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
