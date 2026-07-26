@@ -2,9 +2,7 @@
 
 <h1>👋 Hi, I'm Prathamesh More</h1>
 
-</div>
-
-<p><h3><code>prathamesh@github ~ $ ./contributions.sh</code></h3>
+<h3><code>prathamesh@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860"/>
 
@@ -24,8 +22,7 @@
 </tr>
 </table>
 
-<br>
-
+<br><br>
 
 <h3><code>prathamesh@github ~ $ links</code></h3>
 
@@ -45,4 +42,4 @@
 
 </p>
 
-<br>
+</div>
