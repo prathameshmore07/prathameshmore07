@@ -1,8 +1,9 @@
 from pathlib import Path
 from PIL import Image
 
-INPUT = Path("assets/images/source-prepped.png")
-OUTPUT = Path("assets/svg/avi-ascii.svg")
+ROOT = Path(__file__).resolve().parent.parent
+INPUT = ROOT / "source-prepped.png"
+OUTPUT = ROOT / "avi-ascii.svg"
 
 WIDTH = 100
 ASCII = " .`:-=+*#%@"
@@ -47,10 +48,39 @@ svg.append(
     'fill="#d0d0d0">'
 )
 
+STATIC = False
 for i, line in enumerate(lines):
-    svg.append(
-        f'<tspan x="10" dy="{line_height}">{line}</tspan>'
-    )
+    if STATIC:
+        svg.append(
+            f'<tspan x="10" dy="{line_height}">{line}</tspan>'
+        )
+    else:
+        delay = i * 0.03
+        svg.append(
+            f'''
+<tspan
+    x="10"
+    dy="{line_height}"
+    opacity="0"
+    transform="translate(0,3)">
+{line}
+<animate attributeName="opacity"
+         from="0"
+         to="1"
+         begin="{delay:.3f}s"
+         dur="0.12s"
+         fill="freeze"/>
+<animateTransform
+    attributeName="transform"
+    type="translate"
+    from="0 3"
+    to="0 0"
+    begin="{delay:.3f}s"
+    dur="0.12s"
+    fill="freeze"/>
+</tspan>
+'''
+        )
 
 svg.append("</text>")
 svg.append("</svg>")
