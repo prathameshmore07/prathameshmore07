@@ -101,11 +101,16 @@ for i, row in enumerate(ROWS):
         y += LINE_H * 0.5
         continue
     if kind == "host":
-        inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
-                f'<tspan fill="{GREEN}">prathamesh</tspan><tspan fill="{MUTED}">@</tspan>'
-f'<tspan fill="{ACCENT}">github</tspan></text>'
-                 f'<line x1="{KEY_X+96}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
-                 f'stroke="{FRAME}" stroke-opacity="0.8"/>')
+        line_start = KEY_X + 185
+        inner = (
+            f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
+            f'<tspan fill="{GREEN}">prathamesh</tspan>'
+            f'<tspan fill="{MUTED}">@</tspan>'
+            f'<tspan fill="{ACCENT}">github</tspan>'
+            f'</text>'
+            f'<line x1="{line_start}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
+            f'stroke="{FRAME}" stroke-opacity="0.8"/>'
+        )
     elif kind == "sec":
         title = esc(row[1])
         inner = (f'<text x="{KEY_X}" y="{y:.1f}" fill="{SECTION}" font-size="12.5" font-weight="700">'
