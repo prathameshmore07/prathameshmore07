@@ -1,22 +1,22 @@
 {
   "username": "prathameshmore07",
-  "generated_at": "2026-08-16T06:59:31Z",
+  "generated_at": "2026-08-17T07:16:24Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-17"
+  },
+  "total_contributions": 987,
+  "active_days": 125,
+  "avg_per_active_day": 7.9,
+  "current_streak": {
+    "length": 13,
+    "start": "2026-08-04",
     "end": "2026-08-16"
   },
-  "total_contributions": 984,
-  "active_days": 123,
-  "avg_per_active_day": 8.0,
-  "current_streak": {
-    "length": 12,
-    "start": "2026-08-04",
-    "end": "2026-08-15"
-  },
   "longest_streak": {
-    "length": 12,
-    "start": "2026-08-04",
-    "end": "2026-08-15"
+    "length": 13,
+    "start": "2026-07-21",
+    "end": "2026-08-02"
   },
   "best_day": {
     "date": "2025-11-21",
@@ -69,11 +69,11 @@
     },
     {
       "month": "2026-07",
-      "total": 47
+      "total": 48
     },
     {
       "month": "2026-08",
-      "total": 26
+      "total": 28
     }
   ],
   "days": [
@@ -1447,7 +1447,7 @@
     },
     {
       "date": "2026-07-25",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-07-26",
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-16",
+      "count": 2
+    },
+    {
+      "date": "2026-08-17",
       "count": 0
     }
   ]
