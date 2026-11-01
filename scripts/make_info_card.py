@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 490, 360
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -32,16 +32,12 @@ GREEN = "#3fb950"
 ACCENT = "#22d3ee"
 
 # content model: tuples describing each row
-# ("host",)                    -> "avi@github" + rule
 # ("kv", key, value)           -> orange key + light value
 # ("sec", title)               -> blue "— title —" rule
 # ("bul", text)                -> green dot + light text
 # ("gap",)                     -> vertical space
 ROWS = [
-    ("host",),
-
     ("kv", "Name", "Prathamesh More"),
-    ("kv", "Role", "Full Stack Developer"),
     ("kv", "Focus", "AI • Cybersecurity"),
     ("kv", "Edu", "B.Tech Computer Science & Engineering"),
 
@@ -51,7 +47,7 @@ ROWS = [
 
     ("kv", "Frontend", "React • Next.js • Tailwind CSS"),
     ("kv", "Backend", "FastAPI • Node.js • Express"),
-    ("kv", "Languages", "Python • TypeScript • JavaScript • C++"),
+    ("kv", "Languages", "Python • Java • TypeScript • JavaScript • C++"),
     ("kv", "Database", "MongoDB • PostgreSQL • Supabase"),
 
     ("gap",),
@@ -60,6 +56,7 @@ ROWS = [
 
     ("bul", "CRAVE"),
     ("bul", "FlowState"),
+    ("bul", "ResQDrive"),
     ("bul", "Retro Arcade"),
 ]
 
@@ -93,8 +90,8 @@ for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
     parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
 
 parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">prathamesh@github: ~$ neofetch</text>')
-y = TITLEBAR_H + 30
+             f'text-anchor="middle">prathamesh@github</text>')
+y = TITLEBAR_H + 26
 for i, row in enumerate(ROWS):
     kind = row[0]
     if kind == "gap":
